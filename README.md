@@ -49,4 +49,13 @@ Config de pastas:
 --***services***
 ---history.js
 
+### FIM - codigo: https://github.com/peguimasid/GoBarber-Web/commit/b0d9325c198b4f98e34d015184414e3420b9ff25
+
+
+## Aula 03 - Configurando Reactotron
+
+Vamos configurar o Reactotron na nossa aplicacao para os console.log aparecerem la.
+
+Vamos precisar do pacote:`yarn add reactotron-react-js`
+
 ### FIM - código:
