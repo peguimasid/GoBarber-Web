@@ -12,9 +12,41 @@
   <img alt="RocketShoes" src="./src/assets/rocketshoes.png" width="90%">
 </p> -->
 
-### Rodando na sua maquina:
+Nesse módulo faremos diferente, a cada aula eu explicarei o que fiz e deixarei o commit da das mudanças no final da aula, ai voce poderá olhar o que mudei e nao tera tanto código nas explicações.
 
-1. Baixe o arquivo ***.ZIP***
-2. `cd redux-react-08-master`
-3. `yarn` para instalar as dependencias
-4. `yarn start` para iniciar o servidor e abrirá automaticamente
+Lembrando que a aplicaçāo Web é apenas para pestadores de servicos e a mobile para usuarios.
+
+## Aula 01 - Estrutura básica
+
+Criamos um projeto do zero deixando apenas um Hello World na tele assim como ensinei na [Aula 2 de React](https://github.com/peguimasid/React-Part-2), e configuramos tambem o ESLInt, Prettier e .editorconfig
+
+## Aula 02 - Configurando Rotas
+
+Vamos nessa aula criar as rotas da nossa aplicaçāo, teremos as rotas ***SignUp*** para cadastro de usuario, ***SignIn*** para login, ***Dashboard*** para mostrar os horarios ocupados e disponiveis do prestador de servicos, e ***Profile*** para alterar dados no perfil do prestador de servicos.
+
+Para isso vamos instalar dois pacotes:
+
+- `yarn add react-router-dom` <br>
+- `yarn add history` <br>
+
+Config de pastas:
+
+-src
+
+--***pages***
+---***Dashboard***
+----index.js
+---***Profile***
+----index.js
+---***SignIn***
+----index.js
+---***SignUp***
+----index.js
+
+--***routes***
+---index.js
+
+--***services***
+---history.js
+
+### FIM - código:
