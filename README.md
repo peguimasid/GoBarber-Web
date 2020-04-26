@@ -31,23 +31,23 @@ Para isso vamos instalar dois pacotes:
 
 Config de pastas:
 
--src
+-src<br>
 
---***pages***
----***Dashboard***
-----index.js
----***Profile***
-----index.js
----***SignIn***
-----index.js
----***SignUp***
-----index.js
+--***pages***<br>
+---***Dashboard***<br>
+----index.js<br>
+---***Profile***<br>
+----index.js<br>
+---***SignIn***<br>
+----index.js<br>
+---***SignUp***<br>
+----index.js<br>
 
---***routes***
----index.js
+--***routes***<br>
+---index.js<br>
 
---***services***
----history.js
+--***services***<br>
+---history.js<br>
 
 ### FIM - codigo: https://github.com/peguimasid/GoBarber-Web/commit/b0d9325c198b4f98e34d015184414e3420b9ff25
 
@@ -58,4 +58,4 @@ Vamos configurar o Reactotron na nossa aplicacao para os console.log aparecerem 
 
 Vamos precisar do pacote:`yarn add reactotron-react-js`
 
-### FIM - código:
+### FIM - código: https://github.com/peguimasid/GoBarber-Web/commit/1dd31c280853ca9acd058e47256b523a039933ad
