@@ -59,3 +59,14 @@ Vamos configurar o Reactotron na nossa aplicacao para os console.log aparecerem 
 Vamos precisar do pacote:`yarn add reactotron-react-js`
 
 ### FIM - código: https://github.com/peguimasid/GoBarber-Web/commit/1dd31c280853ca9acd058e47256b523a039933ad
+
+## Aula 04 - Rotas Privadas
+
+Vamos fazer com que usuarios que nao estejam autenticados nao consigam acessar determinadas rotas, e vamos criar rotas privadas, ou seja, que so quem esta autenticado consegue acessar.
+
+Fizemos toda essa logica dentro do arquivo `Route.js` dentro da pasta `routes`
+
+Fizemos uma autenticacao somente para testar, somente os usuarios que tem o signed como `true` conseguem acessar as rotas `Profile` e `Dashboard`, caso contrario elas sao redirecionadas para o login
+
+### FIM - coódigo:
+
