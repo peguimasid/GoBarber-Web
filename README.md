@@ -70,3 +70,14 @@ Fizemos uma autenticacao somente para testar, somente os usuarios que tem o sign
 
 ### FIM - código: https://github.com/peguimasid/GoBarber-Web/commit/5744de56feeff61fe4d90a398f5a96eae48c1d15
 
+## Aula 05 - Layouts por página
+
+Vamos criar layouts prontos para evitar a repeticao de CSS, entao teremos telas pra quem esta logado e tela pra que nao esta logado, dois tipos diferentes de tela.
+
+Entao vamos ter duas: ***auth*** e ***default***, auth sera o tipo de tela so p quem esta autenticado e default é para todos, como fundo da tela, tipo de letra e etc
+
+Vamos utilizar: `yarn add styled-components`
+
+Agora se formos em `src > routes > Route.js` e mudarmos o valor de `signed` para `true` ou `false` o estilo ira mudar entre esses dois valores.
+
+### FIM - código:
