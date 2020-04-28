@@ -90,7 +90,7 @@ Vamos definir estilos globais na aplicacao, ou seja, estilos que se aplicam a to
 
 ## Aula 07 - Utilizando Root Import
 
-Vamos configurar um carinha na nossa aplicaçāo que faz com que a gente nao tenha que ficar navegando entre os arquivos com `../../` pois é cansativo, ao inves disso, em qualquer arquivo que a gente estiver dentro da nossa aplicaçāo basta a gente usar assim: `~/pages/Main` que el vai iniciar da pasta `src`.
+Vamos configurar um carinha na nossa aplicaçāo que faz com que a gente nao tenha que ficar navegando entre os arquivos com `../../` pois é cansativo, ao inves disso, em qualquer arquivo que a gente estiver dentro da nossa aplicaçāo basta a gente usar assim: `~/pages/Main` que ele vai iniciar da pasta `src`.
 
 Para isso vamos precisar: `yarn add customize-cra react-app-rewired babel-plugin-root-import eslint-import-resolver-babel-plugin-root-import -D`
 
