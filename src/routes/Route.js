@@ -10,7 +10,7 @@ export default function RoutesWrapper({
   isPrivate,
   ...rest
 }) {
-  const signed = true;
+  const signed = false;
 
   if (!signed && isPrivate) {
     return <Redirect to="/" />;
@@ -20,7 +20,7 @@ export default function RoutesWrapper({
     return <Redirect to="/dashboard" />;
   }
 
-  const Layout = signed ? AuthLayout : DefaultLayout;
+  const Layout = signed ? DefaultLayout : AuthLayout;
 
   return (
     <Route

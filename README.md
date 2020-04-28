@@ -100,7 +100,18 @@ Depois inicie novamente o servidor com `yarn start`
 
 Arquivos novos na raiz:
 
- - `config-override.js`<br>
+ - `config-overrides.js`<br>
  - `jsconfig.json`<br>
 
  ### FIM - código: https://github.com/peguimasid/GoBarber-Web/commit/c978c53003980eac0b4f240d17fd64e85d4e1042
+ ### Resolvendo bug que dara quando iniciar o servidor novamente: https://github.com/peguimasid/GoBarber-Web/commit/cd744f2bf474485f66f5eb95cef4f196c1c7c7ba (só tirar a virgula do lado de "~/*": ["*"])
+
+ ## Aula 08 - Estilizaçāo da autenticaçāo
+
+Vamos estilizar a pagina de ***Login*** e a pagina de ***Cadastro***
+
+***Imagem:*** [logo.svg](https://skylab.rocketseat.com.br/api/files/1581704670044-attachment.svg)
+
+Vamos precisar: `yarn add polished`
+
+### FIM - código:
