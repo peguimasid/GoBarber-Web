@@ -80,4 +80,10 @@ Vamos utilizar: `yarn add styled-components`
 
 Agora se formos em `src > routes > Route.js` e mudarmos o valor de `signed` para `true` ou `false` o estilo ira mudar entre esses dois valores.
 
+### FIM - código: https://github.com/peguimasid/GoBarber-Web/commit/043e9d2f245b892b0d367f5fe058d1c2b9b047f5
+
+## Aula 06 - Estilos globais
+
+Vamos definir estilos globais na aplicacao, ou seja, estilos que se aplicam a todos os componentes.
+
 ### FIM - código:
