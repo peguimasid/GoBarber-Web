@@ -86,4 +86,21 @@ Agora se formos em `src > routes > Route.js` e mudarmos o valor de `signed` para
 
 Vamos definir estilos globais na aplicacao, ou seja, estilos que se aplicam a todos os componentes.
 
-### FIM - código:
+### FIM - código: https://github.com/peguimasid/GoBarber-Web/commit/4f64dca6420ed63215da595bf0d9956b57be5d76
+
+## Aula 07 - Utilizando Root Import
+
+Vamos configurar um carinha na nossa aplicaçāo que faz com que a gente nao tenha que ficar navegando entre os arquivos com `../../` pois é cansativo, ao inves disso, em qualquer arquivo que a gente estiver dentro da nossa aplicaçāo basta a gente usar assim: `~/pages/Main` que el vai iniciar da pasta `src`.
+
+Para isso vamos precisar: `yarn add customize-cra react-app-rewired babel-plugin-root-import eslint-import-resolver-babel-plugin-root-import -D`
+
+***Nāo esquece de mudar os script no package.json igual ta no commit***
+
+Depois inicie novamente o servidor com `yarn start`
+
+Arquivos novos na raiz:
+
+ - `config-override.js`<br>
+ - `jsconfig.json`<br>
+
+ ### FIM - código:
