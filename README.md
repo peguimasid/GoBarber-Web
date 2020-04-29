@@ -133,3 +133,31 @@ Vamos precisar: `yarn add yup`
 o nome que damos a validaçāo tem que ser o mesmo que demos no input `<input name="senha">`
 
 ### FIM - código: https://github.com/peguimasid/GoBarber-Web/commit/b98a3fd9bab6cc17d17a36b17676dcd95e78eeda
+
+
+## Aula 11 - Configurando store (Redux)
+
+Vamos configurar agora o ***Redux*** pois depois vamos configurar a autenticaçāo, e o nosso ***Token JWT*** deve ser acessivel por toda a aplicaçāo, ou seja, vamos utlizar o ***Redux*** para isso.
+
+Vamos precisar: `yarn add redux redux-saga react-redux reactotron-redux reactotron-redux-saga immer`
+
+Novas pastas e arquivos:
+
+-src<br>
+
+--***store***<br>
+---***modules***<br>
+----***auth***<br>
+-----actions.js<br>
+-----reducer.js<br>
+-----sagas.js<br>
+
+----rootReducer.js<br>
+----rootSaga.js<br>
+
+---index.js<br>
+---createStore.js<br>
+
+Reactotron > ***+*** > 'auth' = mostra o valor de INITIAL_STATE
+
+### FIM - código:
