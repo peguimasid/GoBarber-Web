@@ -123,3 +123,13 @@ Por padrāo no react para pegarmos um valor de um input temos que monitorar alte
 Vamos precisar: `yarn add @rocketseat/unform`
 
 ### FIM - código: https://github.com/peguimasid/GoBarber-Web/commit/c0c3f82c5b763577a43c7b892f1424b15cb6cc53
+
+## Aula 10 - Validando dados do formulário
+
+Vamos impedir que o usuario clique em login ou crie uma conta sem que tenha preenchido os campos do formulário:
+
+Vamos precisar: `yarn add yup`
+
+o nome que damos a validaçāo tem que ser o mesmo que demos no input `<input name="senha">`
+
+### FIM - código:
