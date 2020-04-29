@@ -158,6 +158,6 @@ Novas pastas e arquivos:
 ---index.js<br>
 ---createStore.js<br>
 
-Reactotron > ***+*** > 'auth' = mostra o valor de INITIAL_STATE
+Reactotron > State > ***+*** > 'auth' = mostra o valor de INITIAL_STATE
 
-### FIM - código:
+### FIM - código: https://github.com/peguimasid/GoBarber-Web/commit/536eb3f46525b73d6df9e30eb27e9c5524ee0783
