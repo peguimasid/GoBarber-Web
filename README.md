@@ -118,8 +118,8 @@ Vamos precisar: `yarn add polished`
 
 ## Aula 09 - Utilizando Unform
 
-Por padaro no react para pegarmos um valor de um input temos que monitorar alteracoes nele e armazenar o valor dessas alterações num estado, mas para facilitar, vamos usar uma biblioteca para formularios performaticos.
+Por padrāo no react para pegarmos um valor de um input temos que monitorar alteracoes nele e armazenar o valor dessas alterações num estado, mas para facilitar, vamos usar uma biblioteca para formularios performaticos.
 
 Vamos precisar: `yarn add @rocketseat/unform`
 
-### FIM - código:
+### FIM - código: https://github.com/peguimasid/GoBarber-Web/commit/c0c3f82c5b763577a43c7b892f1424b15cb6cc53
