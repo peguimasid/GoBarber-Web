@@ -184,3 +184,6 @@ Vamos armazenar os dados do usuario como ***email***, ***nome*** e para isso vam
 
 Vamos persistir a autenticaçāo do usuario armazenando dados de autenticaçāo no storage do navegador para quando ele der F5 ou desligar o computador o login nao precisar ser feito novamente.
 
+Vamos precisar: `yarn add redux-persist`
+
+### FIM - código: https://github.com/peguimasid/GoBarber-Web/commit/c4eab69ad5924c7b09ef2f91c695e40b8ccd9fe3
