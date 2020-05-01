@@ -171,3 +171,11 @@ Vamos precisar: `yarn add axios`
 Essa aula tem bastante código mas normalmente para autenticaçāo JWT é sempre a mesma coisa.
 
 ### FIM - código: https://github.com/peguimasid/GoBarber-Web/commit/fc67432237bfc2774060d7a03f93350df87454be
+
+## Aula 12 - Armazenando perfil
+
+Vamos armazenar os dados do usuario como ***email***, ***nome*** e para isso vamos criar um novo modulo/reducer dentro de `store > modules` chamado `user` para armazenarmos esses dados.
+
+***Reactotron***: state > ***+*** > 'user' --> veremos os dados armazenados.
+
+### FIM - código:
