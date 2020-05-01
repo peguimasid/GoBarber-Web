@@ -179,3 +179,8 @@ Vamos armazenar os dados do usuario como ***email***, ***nome*** e para isso vam
 ***Reactotron***: state > ***+*** > 'user' --> veremos os dados armazenados.
 
 ### FIM - código: https://github.com/peguimasid/GoBarber-Web/commit/c755996d87c873bfe5bd22b69531b838977491ee
+
+## Aula 13 - Persisitindo autenticaçāo
+
+Vamos persistir a autenticaçāo do usuario armazenando dados de autenticaçāo no storage do navegador para quando ele der F5 ou desligar o computador o login nao precisar ser feito novamente.
+
