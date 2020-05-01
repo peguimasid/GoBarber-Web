@@ -161,3 +161,13 @@ Novas pastas e arquivos:
 Reactotron > State > ***+*** > 'auth' = mostra o valor de INITIAL_STATE
 
 ### FIM - código: https://github.com/peguimasid/GoBarber-Web/commit/536eb3f46525b73d6df9e30eb27e9c5524ee0783
+
+## Aula 11 - Autenticaçāo
+
+Vamos fazer a autenticaçāo do usuario, usando a [api que contruimos no modulo de ReactJS](https://github.com/peguimasid/GoBarber-backend-pt2) e permitir que eles se loguem na aplicaçāo.
+
+Vamos precisar: `yarn add axios`
+
+Essa aula tem bastante código mas normalmente para autenticaçāo JWT é sempre a mesma coisa.
+
+### FIM - código:
