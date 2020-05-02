@@ -187,3 +187,17 @@ Vamos persistir a autenticaçāo do usuario armazenando dados de autenticaçāo 
 Vamos precisar: `yarn add redux-persist`
 
 ### FIM - código: https://github.com/peguimasid/GoBarber-Web/commit/c4eab69ad5924c7b09ef2f91c695e40b8ccd9fe3
+
+## Aula 14 - Loading da autenticaçāo
+
+Quando clicarmos em ***Acessar*** vai mudar o texto do botāo para ***Carregando...*** para mostrar que esta sendo feito
+
+### FIM - código: https://github.com/peguimasid/GoBarber-Web/commit/150517e6c403838e4bf171404e3323d05e07315e
+
+## Aula 15 - Exibindo toasts
+
+Quando o usuario errar a senha, usuario nao existir ou algum erro do tipo vamos exibir error com o toastify
+
+Vamos precisarL `yarn add react-toastify`
+
+### FIM - código:
