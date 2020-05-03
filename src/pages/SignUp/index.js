@@ -9,7 +9,7 @@ import logo from '~/assets/logo.svg';
 import { signUpRequest } from '~/store/modules/auth/actions';
 
 const schema = Yup.object().shape({
-  nome: Yup.string().required('Insira o seu nome'),
+  name: Yup.string().required('Insira o seu nome'),
   email: Yup.string()
     .email('Insira um e-mail válido')
     .required('O e-mail é obrigatório'),
