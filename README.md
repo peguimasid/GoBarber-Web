@@ -198,6 +198,12 @@ Quando clicarmos em ***Acessar*** vai mudar o texto do botāo para ***Carregando
 
 Quando o usuario errar a senha, usuario nao existir ou algum erro do tipo vamos exibir error com o toastify
 
-Vamos precisarL `yarn add react-toastify`
+Vamos precisar: `yarn add react-toastify`
+
+### FIM - código: https://github.com/peguimasid/GoBarber-Web/commit/fb989080f569d3b56d23eab7b750550ed109135d
+
+## Aula 16 - Cadastro na aplicaçāo
+
+Vamos fazer o cadastro dos prestadores de servico na aplicacao.
 
 ### FIM - código:
