@@ -232,7 +232,23 @@ Vamos configurar o Header da nossa aplicaçāo(navbar).
 
 ## Aula 19 - Estilizando notificações
 
-Vamos exibir as notificações de forma estatica para depois podermos usar a api e exibir de forma dinamica(aula 20)
+Vamos exibir as notificações de forma estatica para depois podermos usar a api e exibir de forma dinamica(aula 20).
+
+Vamos precisar: `yarn add react-icons react-perfect-scrollbar`
+
+O perfect scrollbar ajuda a fazer scrolls de listas muito grandes de forma muito facil.
+
+configuraçāo dele:
+`src > styles > global.js` <br>
+`src > components > Notifictions > index.js` <br>
+`src > components > Notifictions > styles.js` <br>
+
+### FIM - código: https://github.com/peguimasid/GoBarber-Web/commit/93ddd972e0359a52afa6be2beb43cb8994bc3105
+
+## Aula 20 - Notificações
+
+Vamos listar as notificações agora de acordo com a api.
+
+Vamos precisar: `yarn add date-fns@next`
 
 ### FIM - código:
-
