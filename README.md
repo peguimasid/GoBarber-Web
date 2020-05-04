@@ -206,4 +206,17 @@ Vamos precisar: `yarn add react-toastify`
 
 Vamos fazer o cadastro dos prestadores de servico na aplicacao.
 
+### FIM - código: https://github.com/peguimasid/GoBarber-Web/commit/00e8f0613e44f150cb3a6bb9f5f16e51e6dd5efd
+
+Esta escrito nao funcionando pois tem um erro no schema de validaçāo no ***signUp***
+onde so tem que mudar de `nome` para `name`
+
+## Aula 17 - Requisições autenticadas
+
+Vamos enviar o token de autenticaçāo pelas requisições que fizermos a ***API*** para podermos fazer acesso as rotas que necessitam do token ***JWT***.
+
+Se lembrarmos la no Backend definimos um ***middleware*** onde só quem tivesse o ***Bearer Token*** nos Headers poderia acessar a maioria das rotas da nossa aplicaçāo.
+
+Quando fazemos o login ele automaticamente coloca o token la, o que fizemos nessa aula foi apenas persistir esse token mesmo se dermos F5 pegando ele da action `persist/REHYDRATE`
+
 ### FIM - código:
