@@ -12,6 +12,9 @@
   <img alt="RocketShoes" src="./src/assets/rocketshoes.png" width="90%">
 </p> -->
 
+### Aulas 01 - 07 : Ambiente inicial e conceitos
+### Aulas 08 - 17 : Cadastro de autenticaçāo de usuários
+
 Nesse módulo faremos diferente, a cada aula eu explicarei o que fiz e deixarei o commit da das mudanças no final da aula, ai voce poderá olhar o que mudei e nao tera tanto código nas explicações.
 
 Lembrando que a aplicaçāo Web é apenas para pestadores de servicos e a mobile para usuarios.
@@ -219,4 +222,11 @@ Se lembrarmos la no Backend definimos um ***middleware*** onde só quem tivesse 
 
 Quando fazemos o login ele automaticamente coloca o token la, o que fizemos nessa aula foi apenas persistir esse token mesmo se dermos F5 pegando ele da action `persist/REHYDRATE`
 
+### FIM - código: https://github.com/peguimasid/GoBarber-Web/commit/b88aaca39c99e2cad247dee26209bafec6552149
+
+## Aula 18 - Configurando Header
+
+Vamos configurar o Header da nossa aplicaçāo(navbar).
+
 ### FIM - código:
+
