@@ -228,5 +228,11 @@ Quando fazemos o login ele automaticamente coloca o token la, o que fizemos ness
 
 Vamos configurar o Header da nossa aplicaçāo(navbar).
 
+### FIM - código: https://github.com/peguimasid/GoBarber-Web/commit/d5abfd031d7a8ed5b31842a2572c96bfc2b13f36
+
+## Aula 19 - Estilizando notificações
+
+Vamos exibir as notificações de forma estatica para depois podermos usar a api e exibir de forma dinamica(aula 20)
+
 ### FIM - código:
 
