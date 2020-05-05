@@ -259,4 +259,10 @@ Vamos estilizar a pagina de perfil(`profile`) para na proxima aula podermos impl
 
 Ja pegamos os valores de nome e email do usuario e preeenchemos o input automaticamente usando o `useSelector` do react-redux e acessando o estado de profile.
 
+### FIM - código: https://github.com/peguimasid/GoBarber-Web/commit/d0e2b11fb3639ac175e19b7b5037d122d66f65c4
+
+## Aula 22 - Atualizando perfil
+
+Vamos fazer com que quando o usuario mude o o email o nome, esses dados sejam editados no banco de dados.
+
 ### FIM - código:
