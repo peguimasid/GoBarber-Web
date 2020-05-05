@@ -279,4 +279,8 @@ Vamos no Header da aplicaçāo colocar agora a foto de perfil e o nome de forma 
 
 ### FIM - código: https://github.com/peguimasid/GoBarber-Web/commit/03af70aa2a9ee3731bdf054e20865be3743d7f73
 
+## Aula 25 - Logout da aplicaçāo
 
+Já temos o botao ***Sair do GoBarber*** mas agora vamos fazer ele funcionar, redirecionando a gente para a tela de login.
+
+### FIM - código:

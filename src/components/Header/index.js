@@ -31,7 +31,7 @@ export default function Header() {
                   profile.avatar.url ||
                   'https://skywarehouse.s3.amazonaws.com/staticfiles/warehouse/img/nouser.png'
                 }
-                alt={profile.name}
+                alt="Ver perfil"
               />
             </Link>
           </Profile>
