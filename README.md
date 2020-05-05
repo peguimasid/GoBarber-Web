@@ -252,3 +252,11 @@ Vamos listar as notificações agora de acordo com a api.
 Vamos precisar: `yarn add date-fns@next`
 
 ### FIM - código: https://github.com/peguimasid/GoBarber-Web/commit/f10478b85e661b317cbd6bb16a751075a0ccc9ba
+
+## Aula 21 - Página de perfil
+
+Vamos estilizar a pagina de perfil(`profile`) para na proxima aula podermos implementar o metodo de atualizar com os novos dados que ele colocar la.
+
+Ja pegamos os valores de nome e email do usuario e preeenchemos o input automaticamente usando o `useSelector` do react-redux e acessando o estado de profile.
+
+### FIM - código:
