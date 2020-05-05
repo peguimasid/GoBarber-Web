@@ -277,4 +277,6 @@ Vamos mostrar a foto de perfil e poder atualizar ela escolhendo uma nova dos arq
 
 Vamos no Header da aplicaçāo colocar agora a foto de perfil e o nome de forma dinâmica.
 
-### FIM - código:
+### FIM - código: https://github.com/peguimasid/GoBarber-Web/commit/03af70aa2a9ee3731bdf054e20865be3743d7f73
+
+
