@@ -263,6 +263,12 @@ Ja pegamos os valores de nome e email do usuario e preeenchemos o input automati
 
 ## Aula 22 - Atualizando perfil
 
-Vamos fazer com que quando o usuario mude o o email o nome, esses dados sejam editados no banco de dados.
+Vamos fazer com que quando o usuario mude o email ou nome, esses dados sejam editados no banco de dados.
+
+### FIM - código: https://github.com/peguimasid/GoBarber-Web/commit/2ccf6431c4a4fe2b80423e4203fe041a22a05598
+
+## Aula 23 - Foto de perfil
+
+Vamos mostrar a foto de perfil e poder atualizar ela escolhendo uma nova dos arquivos do nosso computador.
 
 ### FIM - código:
