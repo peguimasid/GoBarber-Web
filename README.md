@@ -271,4 +271,10 @@ Vamos fazer com que quando o usuario mude o email ou nome, esses dados sejam edi
 
 Vamos mostrar a foto de perfil e poder atualizar ela escolhendo uma nova dos arquivos do nosso computador.
 
+### FIM - código: https://github.com/peguimasid/GoBarber-Web/commit/f9c6a2f71bf5ac254beb778402ed8eca45a7f088
+
+## Aula 24 - Dados do Header
+
+Vamos no Header da aplicaçāo colocar agora a foto de perfil e o nome de forma dinâmica.
+
 ### FIM - código:
