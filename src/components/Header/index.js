@@ -28,7 +28,7 @@ export default function Header() {
             <Link to="/profile">
               <img
                 src={
-                  profile.avatar.url ||
+                  (profile.avatar && profile.avatar.url) ||
                   'https://skywarehouse.s3.amazonaws.com/staticfiles/warehouse/img/nouser.png'
                 }
                 alt={profile.name}

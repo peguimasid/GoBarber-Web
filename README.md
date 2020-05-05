@@ -14,6 +14,8 @@
 
 ### Aulas 01 - 07 : Ambiente inicial e conceitos
 ### Aulas 08 - 17 : Cadastro de autenticaçāo de usuários
+### Aulas 18 - 20 : Configurando o header e notificações
+### Aulas 21 - 25 : Funcionalidades de perfil
 
 Nesse módulo faremos diferente, a cada aula eu explicarei o que fiz e deixarei o commit da das mudanças no final da aula, ai voce poderá olhar o que mudei e nao tera tanto código nas explicações.
 
