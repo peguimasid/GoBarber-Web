@@ -18,7 +18,8 @@ export default createGlobalStyle`
   }
 
   html, body, #root {
-    height: 100%
+    height: 100%;
+    background: #202020;
   }
 
   body: {

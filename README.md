@@ -298,4 +298,12 @@ Vamos estilizar a parte da dashboard agora, que é onde ficam listados os horari
 
 Vamo fazer com que ao clicar nas setinhas do lado do dia ele mude de dia para o proximo ou anterior.
 
+### FIM - código: https://github.com/peguimasid/GoBarber-Web/commit/71bf92557bb0efb3382086c691e8396c6a67712e
+
+## Aula 28 - Listando agendamentos
+
+Vamos conectar nossa listagem de agendamentos com a ***API*** e exibir os agendados, passados e o que estao disponiveis.
+
+Vamos precisar: `yarn add date-fns-tz`
+
 ### FIM - código:
