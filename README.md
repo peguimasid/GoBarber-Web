@@ -292,4 +292,10 @@ Já temos o botao ***Sair do GoBarber*** mas agora vamos fazer ele funcionar, re
 
 Vamos estilizar a parte da dashboard agora, que é onde ficam listados os horarios disponiveis de cada barbeiro
 
+### FIM - código: https://github.com/peguimasid/GoBarber-Web/commit/b7ee8b9386a0377333146b87b9db320252d02739
+
+## Aula 27 - Navegando entre dias
+
+Vamo fazer com que ao clicar nas setinhas do lado do dia ele mude de dia para o proximo ou anterior.
+
 ### FIM - código:
