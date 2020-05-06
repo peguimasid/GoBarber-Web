@@ -16,6 +16,7 @@
 ### Aulas 08 - 17 : Cadastro de autenticaçāo de usuários
 ### Aulas 18 - 20 : Configurando o header e notificações
 ### Aulas 21 - 25 : Funcionalidades de perfil
+### Aulas 26 - 28 : Funcionalidades de Dashboard
 
 Nesse módulo faremos diferente, a cada aula eu explicarei o que fiz e deixarei o commit da das mudanças no final da aula, ai voce poderá olhar o que mudei e nao tera tanto código nas explicações.
 
@@ -286,3 +287,9 @@ Vamos no Header da aplicaçāo colocar agora a foto de perfil e o nome de forma 
 Já temos o botao ***Sair do GoBarber*** mas agora vamos fazer ele funcionar, redirecionando a gente para a tela de login.
 
 ### FIM - código: https://github.com/peguimasid/GoBarber-Web/commit/d99249607a155bf9a1ceca6a6061a065cd514999
+
+## Aula 26 - Estilizaçāo do Dashboard
+
+Vamos estilizar a parte da dashboard agora, que é onde ficam listados os horarios disponiveis de cada barbeiro
+
+### FIM - código:
